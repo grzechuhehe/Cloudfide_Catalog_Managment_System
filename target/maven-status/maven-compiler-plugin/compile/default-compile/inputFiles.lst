@@ -1,0 +1,17 @@
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/CatalogManagementApplication.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/controller/ProducerController.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/controller/ProductController.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/dto/ProducerCreateRequest.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/dto/ProducerDto.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/dto/ProductRequest.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/dto/ProductResponse.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/exception/ResourceNotFoundException.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/mapper/ProducerMapper.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/mapper/ProductMapper.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/model/Producer.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/model/Product.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/model/ProductAttribute.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/repository/ProducerRepository.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/repository/ProductRepository.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/service/ProducerService.java
+/mnt/c/Users/huber/IdeaProjects/Cloudfide_catalog_managment_system/src/main/java/com/example/catalog/service/ProductService.java
