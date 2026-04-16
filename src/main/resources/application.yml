@@ -12,10 +12,15 @@ spring:
       path: /h2-console
   jpa:
     hibernate:
-      ddl-auto: validate # Liquibase zarządza schematem, Hibernate tylko waliduje
+      ddl-auto: none # Liquibase zarządza schematem, Hibernate nie blokuje startu
     show-sql: true
     properties:
       hibernate:
         format_sql: true
+      jakarta:
+        persistence:
+          schema-generation:
+            database:
+              action: none
   liquibase:
     change-log: classpath:/db/changelog/db.changelog-master.xml
